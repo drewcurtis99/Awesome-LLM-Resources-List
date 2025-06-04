@@ -1,6 +1,8 @@
 langgraph
 langchain_openai
 langchain_google_genai
+langchain_anthropic
+langchain_community
 python-dotenv
 requests
 
